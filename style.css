@@ -1,3 +1,11 @@
 body {
     margin: 0;
+    height: 100%;
+    background-color: hsla(300, 83%, 45%, 0.849);
+}
+
+h1 {
+    font-size: 15px;
+    color: #777;
+    font-family: sans-serif;
 }
